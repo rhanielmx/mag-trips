@@ -1,0 +1,6 @@
+@mag_trip_api_HostAddress = http://localhost:5007
+
+GET {{mag_trip_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

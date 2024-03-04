@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mag-trip-api.props" />
+</Project>
